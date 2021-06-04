@@ -1,5 +1,8 @@
 # neomorphism-basic
 
+
+### used inset in box-shadow
+
 ![Screenshot from 2021-06-04 23-37](https://user-images.githubusercontent.com/56266493/120845377-61192d80-c58e-11eb-9fb3-249ffedd29e7.png)
 
 
